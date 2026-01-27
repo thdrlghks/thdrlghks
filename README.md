@@ -10,12 +10,12 @@
 
 ### 🌟 Main Projects
 
+<!--
 - 내상귀 (Using Skeleton.. JumpScare) -2weeks
 - 대별왕 (8-Direction QuerterView) -about 6months
 - 헨젤과그레텔 (references DarkDeception(3D Pacman)) -3day GameJam
 - Lap (references Helltaker) -2weeks
   
-<!--
 **thdrlghks/thdrlghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
