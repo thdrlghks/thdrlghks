@@ -12,7 +12,7 @@
   <br><br>
   
   <!-- 4. 잔디 먹는 뱀 (시각적 포인트) -->
-  <img src="https://raw.githubusercontent.com/thdrlghks/your-username/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/thdrlghks/thdrlghks/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
