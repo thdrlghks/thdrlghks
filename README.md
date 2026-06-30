@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. 타이핑 애니메이션 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Creative+Developer;Frontend+%26+3D+Graphics;Ready+to+build!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Creative+Developer;Ready+to+build!" alt="Typing SVG" />
 
   <br><br>
   
