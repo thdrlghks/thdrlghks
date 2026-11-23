@@ -41,6 +41,13 @@
       </a>
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://github.com/thdrlghks/unity2D-BugiPotionStore">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thdrlghks&repo=unity2D-BugiPotionStore&theme=tokyonight" alt="unity2D-REMIX" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
